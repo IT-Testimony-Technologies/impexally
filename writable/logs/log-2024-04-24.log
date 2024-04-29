@@ -1,0 +1,327 @@
+CRITICAL - 2024-04-24 16:40:18 --> Unsupported image type. GD driver is only able to decode JPG, PNG, GIF or WebP files.
+in APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 59.
+ 1 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/AbstractDecoder.php(339): Intervention\Image\Gd\Decoder->initFromPath('uploads/temp/temp_66290bc2701aa2-09313046.png')
+ 2 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/AbstractDriver.php(66): Intervention\Image\AbstractDecoder->init('uploads/temp/temp_66290bc2701aa2-09313046.png')
+ 3 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/ImageManager.php(54): Intervention\Image\AbstractDriver->init('uploads/temp/temp_66290bc2701aa2-09313046.png')
+ 4 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/ImageManagerStatic.php(58): Intervention\Image\ImageManager->make('uploads/temp/temp_66290bc2701aa2-09313046.png')
+ 5 APPPATH/Models/UploadModel.php(184): Intervention\Image\ImageManagerStatic::make('uploads/temp/temp_66290bc2701aa2-09313046.png')
+ 6 APPPATH/Models/CategoryModel.php(322): App\Models\UploadModel->uploadCategoryImage('uploads/temp/temp_66290bc2701aa2-09313046.png')
+ 7 APPPATH/Controllers/CategoryController.php(62): App\Models\CategoryModel->addCategory()
+ 8 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\CategoryController->addCategoryPost()
+ 9 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+10 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 16:40:33 --> Unsupported image type. GD driver is only able to decode JPG, PNG, GIF or WebP files.
+in APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 59.
+ 1 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/AbstractDecoder.php(339): Intervention\Image\Gd\Decoder->initFromPath('uploads/temp/temp_66290bd1b61cd9-73325670.png')
+ 2 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/AbstractDriver.php(66): Intervention\Image\AbstractDecoder->init('uploads/temp/temp_66290bd1b61cd9-73325670.png')
+ 3 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/ImageManager.php(54): Intervention\Image\AbstractDriver->init('uploads/temp/temp_66290bd1b61cd9-73325670.png')
+ 4 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/ImageManagerStatic.php(58): Intervention\Image\ImageManager->make('uploads/temp/temp_66290bd1b61cd9-73325670.png')
+ 5 APPPATH/Models/UploadModel.php(184): Intervention\Image\ImageManagerStatic::make('uploads/temp/temp_66290bd1b61cd9-73325670.png')
+ 6 APPPATH/Models/CategoryModel.php(322): App\Models\UploadModel->uploadCategoryImage('uploads/temp/temp_66290bd1b61cd9-73325670.png')
+ 7 APPPATH/Controllers/CategoryController.php(62): App\Models\CategoryModel->addCategory()
+ 8 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\CategoryController->addCategoryPost()
+ 9 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+10 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 16:40:55 --> Unsupported image type. GD driver is only able to decode JPG, PNG, GIF or WebP files.
+in APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 59.
+ 1 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/AbstractDecoder.php(339): Intervention\Image\Gd\Decoder->initFromPath('uploads/temp/temp_66290be7e91b00-44739222.png')
+ 2 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/AbstractDriver.php(66): Intervention\Image\AbstractDecoder->init('uploads/temp/temp_66290be7e91b00-44739222.png')
+ 3 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/ImageManager.php(54): Intervention\Image\AbstractDriver->init('uploads/temp/temp_66290be7e91b00-44739222.png')
+ 4 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/ImageManagerStatic.php(58): Intervention\Image\ImageManager->make('uploads/temp/temp_66290be7e91b00-44739222.png')
+ 5 APPPATH/Models/UploadModel.php(184): Intervention\Image\ImageManagerStatic::make('uploads/temp/temp_66290be7e91b00-44739222.png')
+ 6 APPPATH/Models/CategoryModel.php(322): App\Models\UploadModel->uploadCategoryImage('uploads/temp/temp_66290be7e91b00-44739222.png')
+ 7 APPPATH/Controllers/CategoryController.php(62): App\Models\CategoryModel->addCategory()
+ 8 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\CategoryController->addCategoryPost()
+ 9 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+10 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-04-24 13:41:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:41:57 --> CSRF token verified.
+CRITICAL - 2024-04-24 16:41:57 --> Unsupported image type. GD driver is only able to decode JPG, PNG, GIF or WebP files.
+in APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 59.
+ 1 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/AbstractDecoder.php(339): Intervention\Image\Gd\Decoder->initFromPath('uploads/temp/temp_66290c25e948a4-10682888.png')
+ 2 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/AbstractDriver.php(66): Intervention\Image\AbstractDecoder->init('uploads/temp/temp_66290c25e948a4-10682888.png')
+ 3 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/ImageManager.php(54): Intervention\Image\AbstractDriver->init('uploads/temp/temp_66290c25e948a4-10682888.png')
+ 4 APPPATH/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/ImageManagerStatic.php(58): Intervention\Image\ImageManager->make('uploads/temp/temp_66290c25e948a4-10682888.png')
+ 5 APPPATH/Models/UploadModel.php(184): Intervention\Image\ImageManagerStatic::make('uploads/temp/temp_66290c25e948a4-10682888.png')
+ 6 APPPATH/Models/CategoryModel.php(322): App\Models\UploadModel->uploadCategoryImage('uploads/temp/temp_66290c25e948a4-10682888.png')
+ 7 APPPATH/Controllers/CategoryController.php(62): App\Models\CategoryModel->addCategory()
+ 8 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\CategoryController->addCategoryPost()
+ 9 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+10 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-24 16:41:58 --> Uncaught Error: Class "Locale" not found in /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/system/Helpers/number_helper.php(55): format_number(14.0, 2, NULL, Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/system/Debug/BaseExceptionHandler.php(145): number_to_size(14.0, 2)
+#2 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(14680064)
+#3 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/system/Debug/BaseExceptionHandler.php(241): include('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/system/Debug/ExceptionHandler.php(109): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Intervention\Image\Exception\NotReadableException), 500, '/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/system/Debug/Exceptions.php(146): CodeIgniter\Debug\ExceptionHandler->handle(Object(Intervention\Image\Exception\NotReadableException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Intervention\Image\Exception\NotReadableException))
+#8 {main}
+  thrown
+【Previous Exception】
+Intervention\Image\Exception\NotReadableException
+Unsupported image type. GD driver is only able to decode JPG, PNG, GIF or WebP files.
+#0 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/app/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/AbstractDecoder.php(339): Intervention\Image\Gd\Decoder->initFromPath('uploads/temp/te...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/app/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/AbstractDriver.php(66): Intervention\Image\AbstractDecoder->init('uploads/temp/te...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/app/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/ImageManager.php(54): Intervention\Image\AbstractDriver->init('uploads/temp/te...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/app/ThirdParty/intervention-image/vendor/intervention/image/src/Intervention/Image/ImageManagerStatic.php(58): Intervention\Image\ImageManager->make('uploads/temp/te...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/app/Models/UploadModel.php(184): Intervention\Image\ImageManagerStatic::make('uploads/temp/te...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/app/Models/CategoryModel.php(322): App\Models\UploadModel->uploadCategoryImage('uploads/temp/te...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/app/Controllers/CategoryController.php(62): App\Models\CategoryModel->addCategory()
+#7 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/system/CodeIgniter.php(918): App\Controllers\CategoryController->addCategoryPost()
+#8 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+#9 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /Applications/XAMPP/xamppfiles/htdocs/seller-implexally/index.php(95): CodeIgniter\CodeIgniter->run()
+#11 {main}
+in SYSTEMPATH/Helpers/number_helper.php on line 136.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-04-24 13:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:42:18 --> CSRF token verified.
+INFO - 2024-04-24 13:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:44:20 --> CSRF token verified.
+INFO - 2024-04-24 13:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:44:21 --> CSRF token verified.
+INFO - 2024-04-24 13:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:46:03 --> CSRF token verified.
+INFO - 2024-04-24 13:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:46:05 --> CSRF token verified.
+INFO - 2024-04-24 13:46:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:46:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:46:22 --> CSRF token verified.
+INFO - 2024-04-24 13:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:46:40 --> CSRF token verified.
+INFO - 2024-04-24 13:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:47:07 --> CSRF token verified.
+INFO - 2024-04-24 13:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:47:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:47:08 --> CSRF token verified.
+INFO - 2024-04-24 13:47:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:47:20 --> CSRF token verified.
+INFO - 2024-04-24 13:47:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:47:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:47:20 --> CSRF token verified.
+INFO - 2024-04-24 13:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:47:25 --> CSRF token verified.
+INFO - 2024-04-24 13:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:47:31 --> CSRF token verified.
+INFO - 2024-04-24 13:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:47:33 --> CSRF token verified.
+INFO - 2024-04-24 13:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:47:47 --> CSRF token verified.
+INFO - 2024-04-24 13:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:47:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:47:47 --> CSRF token verified.
+INFO - 2024-04-24 13:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:47:56 --> CSRF token verified.
+INFO - 2024-04-24 13:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:47:59 --> CSRF token verified.
+INFO - 2024-04-24 13:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:48:00 --> CSRF token verified.
+INFO - 2024-04-24 13:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:48:02 --> CSRF token verified.
+INFO - 2024-04-24 13:48:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:48:03 --> CSRF token verified.
+INFO - 2024-04-24 13:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:48:10 --> CSRF token verified.
+INFO - 2024-04-24 13:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 13:48:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 16:48:12 --> CSRF token verified.
+INFO - 2024-04-24 14:09:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:09:39 --> CSRF token verified.
+INFO - 2024-04-24 14:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:13:46 --> CSRF token verified.
+INFO - 2024-04-24 14:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:13:51 --> CSRF token verified.
+INFO - 2024-04-24 14:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:13:52 --> CSRF token verified.
+INFO - 2024-04-24 14:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:13:57 --> CSRF token verified.
+INFO - 2024-04-24 14:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:14:05 --> CSRF token verified.
+INFO - 2024-04-24 14:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:14:07 --> CSRF token verified.
+INFO - 2024-04-24 14:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:14:15 --> CSRF token verified.
+INFO - 2024-04-24 14:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:14:15 --> CSRF token verified.
+INFO - 2024-04-24 14:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:14:38 --> CSRF token verified.
+INFO - 2024-04-24 14:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:14:40 --> CSRF token verified.
+INFO - 2024-04-24 14:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:15:07 --> CSRF token verified.
+INFO - 2024-04-24 14:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:15:07 --> CSRF token verified.
+INFO - 2024-04-24 14:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:15:28 --> CSRF token verified.
+INFO - 2024-04-24 14:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:15:33 --> CSRF token verified.
+INFO - 2024-04-24 14:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:15:53 --> CSRF token verified.
+INFO - 2024-04-24 14:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:16:23 --> CSRF token verified.
+INFO - 2024-04-24 14:16:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:16:30 --> CSRF token verified.
+INFO - 2024-04-24 14:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:16:51 --> CSRF token verified.
+INFO - 2024-04-24 14:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:17:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:17:06 --> CSRF token verified.
+INFO - 2024-04-24 14:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:17:17 --> CSRF token verified.
+INFO - 2024-04-24 14:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:17:27 --> CSRF token verified.
+INFO - 2024-04-24 14:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:17:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:17:42 --> CSRF token verified.
+INFO - 2024-04-24 14:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:18:00 --> CSRF token verified.
+INFO - 2024-04-24 14:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:18:01 --> CSRF token verified.
+INFO - 2024-04-24 14:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:18:32 --> CSRF token verified.
+INFO - 2024-04-24 14:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:18:40 --> CSRF token verified.
+INFO - 2024-04-24 14:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:18:47 --> CSRF token verified.
+INFO - 2024-04-24 14:18:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:18:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:18:50 --> CSRF token verified.
+INFO - 2024-04-24 14:18:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:18:55 --> CSRF token verified.
+INFO - 2024-04-24 14:18:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:18:57 --> CSRF token verified.
+INFO - 2024-04-24 14:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:19:06 --> CSRF token verified.
+INFO - 2024-04-24 14:19:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:19:32 --> CSRF token verified.
+INFO - 2024-04-24 14:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:19:39 --> CSRF token verified.
+INFO - 2024-04-24 14:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:19:39 --> CSRF token verified.
+INFO - 2024-04-24 14:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:19:50 --> CSRF token verified.
+INFO - 2024-04-24 14:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:19:53 --> CSRF token verified.
+INFO - 2024-04-24 14:19:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:19:57 --> CSRF token verified.
+INFO - 2024-04-24 14:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:06 --> CSRF token verified.
+INFO - 2024-04-24 14:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:11 --> CSRF token verified.
+INFO - 2024-04-24 14:20:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:13 --> CSRF token verified.
+INFO - 2024-04-24 14:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:14 --> CSRF token verified.
+INFO - 2024-04-24 14:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:16 --> CSRF token verified.
+INFO - 2024-04-24 14:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:17 --> CSRF token verified.
+INFO - 2024-04-24 14:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:19 --> CSRF token verified.
+INFO - 2024-04-24 14:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:20 --> CSRF token verified.
+INFO - 2024-04-24 14:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:23 --> CSRF token verified.
+INFO - 2024-04-24 14:20:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:24 --> CSRF token verified.
+INFO - 2024-04-24 14:20:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:26 --> CSRF token verified.
+INFO - 2024-04-24 14:20:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:27 --> CSRF token verified.
+INFO - 2024-04-24 14:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:45 --> CSRF token verified.
+INFO - 2024-04-24 14:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:20:45 --> CSRF token verified.
+INFO - 2024-04-24 14:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:21:04 --> CSRF token verified.
+INFO - 2024-04-24 14:21:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:21:24 --> CSRF token verified.
+INFO - 2024-04-24 14:21:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:21:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:21:24 --> CSRF token verified.
+INFO - 2024-04-24 14:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:21:30 --> CSRF token verified.
+INFO - 2024-04-24 14:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:21:32 --> CSRF token verified.
+INFO - 2024-04-24 14:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:21:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:21:35 --> CSRF token verified.
+INFO - 2024-04-24 14:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:21:38 --> CSRF token verified.
+INFO - 2024-04-24 14:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:21:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:21:50 --> CSRF token verified.
+INFO - 2024-04-24 14:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:22:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:22:09 --> CSRF token verified.
+INFO - 2024-04-24 14:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:22:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:22:42 --> CSRF token verified.
+INFO - 2024-04-24 14:22:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:22:47 --> CSRF token verified.
+INFO - 2024-04-24 14:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:23:05 --> CSRF token verified.
+INFO - 2024-04-24 14:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:23:07 --> CSRF token verified.
+INFO - 2024-04-24 14:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:23:22 --> CSRF token verified.
+INFO - 2024-04-24 14:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:23:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:23:28 --> CSRF token verified.
+INFO - 2024-04-24 14:23:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:23:39 --> CSRF token verified.
+INFO - 2024-04-24 14:23:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:23:41 --> CSRF token verified.
+INFO - 2024-04-24 14:23:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:23:43 --> CSRF token verified.
+INFO - 2024-04-24 14:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:23:52 --> CSRF token verified.
+INFO - 2024-04-24 14:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 14:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-04-24 17:27:35 --> CSRF token verified.
