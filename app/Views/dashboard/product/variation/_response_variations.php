@@ -151,7 +151,7 @@
             maxFileSize: <?= $productSettings->max_file_size_image; ?>,
             queue: true,
             allowedTypes: 'image/*',
-            extFilter: ["jpg", "jpeg", "png", "gif"],
+            extFilter: ["jpg", "jpeg", "webp", "png", "gif"],
             extraData: function (id) {
                 return {
                     'variation_option_id': $("#drag-and-drop-zone-variation-image #variation_option_id").val(),

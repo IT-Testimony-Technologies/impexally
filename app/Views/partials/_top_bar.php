@@ -134,7 +134,7 @@ if ($generalSettings->digital_products_system == 1): ?>
 </li>
 <?php else: ?>
 <li class="nav-item">
-<a href="javascript:void(0)" data-toggle="modal" data-target="#loginModal" class="nav-link"><?= trans("login"); ?></a>
+<a href="<?= generateUrl('login'); ?>" class="nav-link"><?= trans("login"); ?></a>
 <span class="auth-sep">/</span>
 <a href="<?= generateUrl('register'); ?>" class="nav-link"><?= trans("register"); ?></a>
 </li>

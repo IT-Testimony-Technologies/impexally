@@ -80,7 +80,7 @@
                 <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button"><i class="fa fa-bars" aria-hidden="true"></i></a>
                 <div class="navbar-custom-menu">
                     <ul class="nav navbar-nav">
-                        <li><a class="btn btn-sm btn-success pull-left btn-site-prev" target="_blank" href="<?= base_url(); ?>"><i class="fa fa-eye"></i> <span class="btn-site-prev-text"><?= trans("view_site"); ?></span></a></li>
+                        <li><a class="btn btn-sm btn-success pull-left btn-site-prev" target="_blank" href="https://ghana.impexally.com"><i class="fa fa-eye"></i> <span class="btn-site-prev-text"><?= trans("view_site"); ?></span></a></li>
                         <li class="dropdown user-menu">
                             <a class="dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="false">
                                 <i class="fa fa-globe"></i>&nbsp;
@@ -129,22 +129,24 @@
     </header>
     <aside class="main-sidebar" style="background-color: #343B4A;">
         <section class="sidebar sidebar-scrollbar">
-            <a href="<?= adminUrl(); ?>" class="logo">
+            <a style="margin-left:-35px;" href="<?= adminUrl(); ?>" class="logo">
                 <span class="logo-mini"></span>
                 <span class="logo-lg"><b><?= esc($generalSettings->application_name); ?></b> <?= trans("panel"); ?></span>
             </a>
-            <div class="user-panel">
-                <div class="pull-left image">
+            <div style="margin-bottom:0" class="user-panel">
+                <!--<div class="pull-left image">
                     <img src="<?= getUserAvatar(user()); ?>" class="img-circle" alt="">
-                </div>
-                <div class="pull-left info">
+                </div>-->
+                <!--<div class="pull-left info">
                     <p><?= esc(getUsername(user())); ?></p>
                     <a href="#"><i class="fa fa-circle text-success"></i> <?= trans("online"); ?></a>
-                </div>
+                </div>-->
             </div>
-            <ul class="sidebar-menu" data-widget="tree">
+            <ul class="sidebar-menu" data-widget="tree" style="margin-top:-80px;">
+                <li class="nav-navigation"></li>
                 <li class="header"><?= trans("navigation"); ?></li>
-                <li class="nav-home">
+                
+                <li class="nav-navigation">
                     <a href="<?= adminUrl(); ?>"><i class="fa fa-home"></i> <span><?= trans("home"); ?></span></a>
                 </li>
                 <?php if (hasPermission('navigation')): ?>
@@ -377,6 +379,9 @@
                     $showMtTools = true; ?>
                     <li class="nav-newsletter">
                         <a href="<?= adminUrl('newsletter'); ?>"><i class="fa fa-envelope-o" aria-hidden="true"></i><span><?= trans("newsletter"); ?></span></a>
+                    </li>
+                    <li class="nav-newsletter">
+                        <a href="<?= adminUrl('notifications'); ?>"><i class="fa fa-bell" aria-hidden="true"></i><span><?= trans("notifications"); ?></span></a>
                     </li>
                 <?php endif;
                 if (hasPermission('preferences') || hasPermission('general_settings') || hasPermission('product_settings') || hasPermission('payment_settings')):?>

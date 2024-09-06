@@ -27,7 +27,7 @@ class SupportController extends BaseController
         
         echo view('partials/_header', $data);
         echo view('support/index', $data);
-        echo view('partials/_footer');
+        //echo view('partials/_footer');
     }
 
     /**

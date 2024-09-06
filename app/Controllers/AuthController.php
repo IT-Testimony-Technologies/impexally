@@ -15,8 +15,47 @@ class AuthController extends BaseController
     }
 
     /**
-     * Login Post
+     * Login Post Form
      */
+     public function loginFormPost()
+    {
+        if (authCheck()) {
+            return redirect()->to(generateUrl('dashboard'));
+        }
+
+        
+        $val = \Config\Services::validation();
+        $val->setRule('email', trans("email_address"), 'required|max_length[255]');
+        $val->setRule('password', trans("password"), 'required|max_length[255]');
+        
+        if (!$this->validate(getValRules($val))) {
+            $this->session->setFlashdata('errors', $val->getErrors());
+            return redirect()->to(generateUrl('login'))->withInput();
+        } else {
+            if ($this->authModel->login()) {
+                //return redirect()->to(langBaseUrl());
+                $email = $this->request->getPost('email');
+                $user = $this->authModel->getUserByEmail($email);
+                // Check if the user's role_id is 1
+                if ($user->role_id == 1) {
+                    // If so, redirect to the admin page
+                    return redirect()->to(generateUrl('admin'));
+                } else if($user->role_id == 2) {
+                    // Otherwise, redirect to the base URL
+                    return redirect()->to(generateUrl('dashboard'));
+                } else{
+                    setErrorMessage(trans("invalid_email_password"));
+                    return redirect()->to(generateUrl('login'))->withInput();
+                }
+            } else {
+                setErrorMessage(trans("invalid_email_password"));
+                return redirect()->to(generateUrl('login'))->withInput();
+            }
+        }
+    }
+/**
+ * Login Post 
+*/
     public function loginPost()
     {
         //check auth
@@ -94,7 +133,7 @@ class AuthController extends BaseController
             if (!empty($this->session->get('fbLoginReferrer'))) {
                 return redirect()->to($this->session->get('fbLoginReferrer'));
             } else {
-                return redirect()->to(langBaseUrl());
+                return redirect()->to(generateUrl('dashboard'));
             }
         } catch (\Exception $e) {
             echo 'Error: Invalid User';
@@ -143,7 +182,7 @@ class AuthController extends BaseController
                 if (!empty($this->session->get('gLoginReferrer'))) {
                     return redirect()->to($this->session->get('gLoginReferrer'));
                 } else {
-                    return redirect()->to(langBaseUrl());
+                    return redirect()->to(generateUrl('dashboard'));
                 }
             } catch (Exception $e) {
                 exit('Something went wrong: ' . $e->getMessage());
@@ -206,12 +245,29 @@ class AuthController extends BaseController
                 if (!empty($this->session->get('vkLoginReferrer'))) {
                     return redirect()->to($this->session->get('vkLoginReferrer'));
                 } else {
-                    return redirect()->to(langBaseUrl());
+                    return redirect()->to(generateUrl('dashboard'));
                 }
             } catch (IdentityProviderException $e) {
                 error_log($e->getMessage());
             }
         }
+    }
+    
+    /**
+     * Login
+    **/
+    public function login(){
+        if (authCheck()) {
+            return redirect()->to(generateUrl('dashboard'));
+        }
+        $data['title'] = trans("login");
+        $data['description'] = trans("login") . ' - ' . $this->baseVars->appName;
+        $data['keywords'] = trans("login") . ',' . $this->baseVars->appName;
+        
+        //echo view('partials/_header', $data);
+        echo view('auth/login',$data);
+        //echo view('partials/_footer');
+        
     }
 
     /**
@@ -220,16 +276,17 @@ class AuthController extends BaseController
     public function register()
     {
         if (authCheck()) {
-            return redirect()->to(langBaseUrl());
+            return redirect()->to(generateUrl('dashboard'));
         }
         $data['title'] = trans("register");
         $data['description'] = trans("register") . ' - ' . $this->baseVars->appName;
         $data['keywords'] = trans("register") . ',' . $this->baseVars->appName;
         
-        echo view('partials/_header', $data);
-        echo view('auth/register');
-        echo view('partials/_footer');
+        //echo view('partials/_header', $data);
+        echo view('auth/register',$data);
+       // echo view('partials/_footer');
     }
+    
 
     /**
      * Register Post
@@ -237,7 +294,7 @@ class AuthController extends BaseController
     public function registerPost()
     {
         if (authCheck()) {
-            return redirect()->to(langBaseUrl());
+            return redirect()->to(generateUrl('dashboard'));
         }
         if ($this->baseVars->recaptchaStatus) {
             if (reCAPTCHA('validate') == 'invalid') {
@@ -247,6 +304,7 @@ class AuthController extends BaseController
         }
         $val = \Config\Services::validation();
         $val->setRule('email', trans("email_address"), 'required|max_length[255]');
+        $val->setRule('phone_number', trans("phone_number"), 'required|max_length[255]');
         $val->setRule('password', trans("password"), 'required|min_length[4]|max_length[255]');
         $val->setRule('confirm_password', trans("password_confirm"), 'required|matches[password]');
         if (!$this->validate(getValRules($val))) {
@@ -273,7 +331,7 @@ class AuthController extends BaseController
     public function registerSuccess()
     {
         if (authCheck()) {
-            return redirect()->to(langBaseUrl());
+            return redirect()->to(generateUrl('dashboard'));
         }
         $data['title'] = trans("register");
         $data['description'] = trans("register") . ' - ' . $this->baseVars->appName;
@@ -281,12 +339,12 @@ class AuthController extends BaseController
         $token = inputGet('u');
         $data['user'] = $this->authModel->getUserByToken($token);
         if (empty($data['user']) || $data['user']->email_status == 1) {
-            return redirect()->to(langBaseUrl());
+            return redirect()->to(generateUrl('dashboard'));
         }
 
-        echo view('partials/_header', $data);
+        //echo view('partials/_header', $data);
         echo view('auth/register_success', $data);
-        echo view('partials/_footer');
+       // echo view('partials/_footer');
     }
 
     /**
@@ -301,19 +359,19 @@ class AuthController extends BaseController
         $token = trim(inputGet('token') ?? '');
         $data['user'] = $this->authModel->getUserByToken($token);
         if (empty($data['user'])) {
-            return redirect()->to(langBaseUrl());
+            return redirect()->to(generateUrl('dashboard'));
         }
         if ($data['user']->email_status == 1) {
-            return redirect()->to(langBaseUrl());
+            return redirect()->to(generateUrl('dashboard'));
         }
         if ($this->authModel->verifyEmail($data['user'])) {
             $data['success'] = trans("msg_confirmed");
         } else {
             $data['error'] = trans("msg_error");
         }
-        echo view('partials/_header', $data);
+        //echo view('partials/_header', $data);
         echo view('auth/confirm_email', $data);
-        echo view('partials/_footer');
+        //echo view('partials/_footer');
     }
 
     /**
@@ -322,15 +380,15 @@ class AuthController extends BaseController
     public function forgotPassword()
     {
         if (authCheck()) {
-            return redirect()->to(langBaseUrl());
+            return redirect()->to(generateUrl('dashboard'));
         }
         $data['title'] = trans("reset_password");
         $data['description'] = trans("reset_password") . ' - ' . $this->baseVars->appName;
         $data['keywords'] = trans("reset_password") . ',' . $this->baseVars->appName;
 
-        echo view('partials/_header', $data);
-        echo view('auth/forgot_password');
-        echo view('partials/_footer');
+        //echo view('partials/_header', $data);
+        echo view('auth/forgot_password',$data);
+        //echo view('partials/_footer');
     }
 
     /**
@@ -339,7 +397,7 @@ class AuthController extends BaseController
     public function forgotPasswordPost()
     {
         if (authCheck()) {
-            return redirect()->to(langBaseUrl());
+            return redirect()->to(generateUrl('dashboard'));
         }
         $email = inputPost('email');
         $user = $this->authModel->getUserByEmail($email);
@@ -376,7 +434,7 @@ class AuthController extends BaseController
     public function resetPassword()
     {
         if (authCheck()) {
-            return redirect()->to(langBaseUrl());
+            return redirect()->to(generateUrl('dashboard'));
         }
         $data['title'] = trans("reset_password");
         $data['description'] = trans("reset_password") . ' - ' . $this->baseVars->appName;
@@ -385,12 +443,12 @@ class AuthController extends BaseController
         $data['user'] = $this->authModel->getUserByToken($token);
         $data['success'] = $this->session->getFlashdata('success');
         if (empty($data['user']) && empty($data['success'])) {
-            return redirect()->to(langBaseUrl());
+            return redirect()->to(generateUrl('dashboard'));
         }
 
-        echo view('partials/_header', $data);
-        echo view('auth/reset_password');
-        echo view('partials/_footer');
+        //echo view('partials/_header', $data);
+        echo view('auth/reset_password',$data);
+        //echo view('partials/_footer');
     }
 
     /**
@@ -400,7 +458,7 @@ class AuthController extends BaseController
     {
         $success = inputPost('success');
         if ($success == 1) {
-            return redirect()->to(langBaseUrl());
+            return redirect()->to(generateUrl('dashboard'));
         }
         $val = \Config\Services::validation();
         $val->setRule('password', trans("new_password"), 'required|min_length[4]|max_length[255]');

@@ -136,6 +136,8 @@ $routes->get($rtAdmin . '/edit-translations/(:num)', 'LanguageController::editTr
 $routes->get($rtAdmin . '/search-phrases', 'LanguageController::searchPhrases');
 //newsletter
 $routes->get($rtAdmin . '/newsletter', 'AdminController::newsletter');
+// notifications
+$routes->get($rtAdmin . '/notifications', 'AdminController::notifications');
 //currency
 $routes->get($rtAdmin . '/currency-settings', 'AdminController::currencySettings');
 $routes->get($rtAdmin . '/add-currency', 'AdminController::addCurrency');
@@ -171,6 +173,7 @@ if (!empty($languages)) {
         $routes->get($key . $csrt->register_success, 'AuthController::registerSuccess');
         $routes->get($key . $csrt->forgot_password, 'AuthController::forgotPassword');
         $routes->get($key . $csrt->reset_password, 'AuthController::resetPassword');
+        $routes->get($key . $csrt->login, 'AuthController::login');
         //profile
         $routes->get($key . $csrt->profile . '/(:any)', 'ProfileController::profile/$1');
         $routes->get($key . $csrt->wishlist . '/(:any)', 'ProfileController::wishlist/$1');

@@ -32,6 +32,7 @@ $routes->post('download-attachment-post', 'SupportController::downloadAttachment
 $routes->post('forgot-password-post', 'AuthController::forgotPasswordPost');
 $routes->post('reset-password-post', 'AuthController::resetPasswordPost');
 $routes->post('register-post', 'AuthController::registerPost');
+$routes->post('login-post-form', 'AuthController::loginFormPost');
 //bidding
 $routes->post('submit-quote-post', 'DashboardController::submitQuotePost');
 $routes->post('request-quote-post', 'OrderController::requestQuotePost');

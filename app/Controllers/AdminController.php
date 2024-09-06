@@ -420,6 +420,20 @@ class AdminController extends BaseAdminController
         echo view('admin/newsletter/newsletter', $data);
         echo view('admin/includes/_footer');
     }
+    /**
+     * Notifications
+    */
+    public function notifications(){
+        checkPermission('newsletter');
+        $data['title'] = trans("notifications");
+        $data['users'] = $this->authModel->getUsers();
+        echo view('admin/includes/_header', $data);
+        echo view('admin/notifications/sendnotifications', $data);
+        echo view('admin/includes/_footer');
+        
+        
+    }
+    
 
     /**
      * Send Email

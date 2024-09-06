@@ -36,7 +36,14 @@ class HomeController extends BaseController
      */
     public function index()
     {
-        $data = [
+        // Check if the user is not authenticated
+        if (!authCheck()) {
+            // If not, redirect to the login page
+            return redirect()->to(generateUrl('login'));
+        } else {
+            return redirect()->to(generateUrl('dashboard'));
+        }
+        /*$data = [
             'title' => $this->settings->homepage_title,
             'description' => $this->settings->site_description,
             'keywords' => $this->settings->keywords
@@ -56,7 +63,7 @@ class HomeController extends BaseController
 
         echo view('partials/_header', $data);
         echo view('index', $data);
-        echo view('partials/_footer', $data);
+        echo view('partials/_footer', $data);*/
     }
 
     /**

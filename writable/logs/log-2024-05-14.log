@@ -1,0 +1,65 @@
+INFO - 2024-05-14 12:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 12:59:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 15:59:09 --> CSRF token verified.
+INFO - 2024-05-14 12:59:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 15:59:12 --> CSRF token verified.
+INFO - 2024-05-14 12:59:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 12:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 15:59:22 --> CSRF token verified.
+INFO - 2024-05-14 13:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 13:20:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 16:20:09 --> CSRF token verified.
+INFO - 2024-05-14 13:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 16:20:19 --> CSRF token verified.
+INFO - 2024-05-14 13:20:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 16:20:27 --> CSRF token verified.
+INFO - 2024-05-14 13:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 13:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 16:20:31 --> CSRF token verified.
+INFO - 2024-05-14 13:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 13:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-05-14 16:20:43 --> The action you requested is not allowed.
+in SYSTEMPATH/Security/Security.php on line 298.
+ 1 SYSTEMPATH/Security/Security.php(298): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH/Filters/CSRF.php(55): CodeIgniter\Security\Security->verify()
+ 3 SYSTEMPATH/Filters/Filters.php(180): CodeIgniter\Filters\CSRF->before()
+ 4 SYSTEMPATH/CodeIgniter.php(465): CodeIgniter\Filters\Filters->run()
+ 5 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-05-14 17:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:48:35 --> CSRF token verified.
+INFO - 2024-05-14 17:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:48:43 --> CSRF token verified.
+INFO - 2024-05-14 17:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:48:53 --> CSRF token verified.
+INFO - 2024-05-14 17:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:48:56 --> CSRF token verified.
+INFO - 2024-05-14 17:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:49:02 --> CSRF token verified.
+INFO - 2024-05-14 17:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:49:06 --> CSRF token verified.
+INFO - 2024-05-14 17:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:49:09 --> CSRF token verified.
+INFO - 2024-05-14 17:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:49:11 --> CSRF token verified.
+INFO - 2024-05-14 17:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:49:14 --> CSRF token verified.
+INFO - 2024-05-14 17:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:49:17 --> CSRF token verified.
+INFO - 2024-05-14 17:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:49:17 --> CSRF token verified.
+INFO - 2024-05-14 17:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 17:49:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-05-14 20:49:21 --> CSRF token verified.

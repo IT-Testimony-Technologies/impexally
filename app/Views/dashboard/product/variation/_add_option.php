@@ -134,31 +134,32 @@
                                 <div class="row">
                                     <div class="col-sm-12">
                                         <div class="dm-uploader-container">
-                                            <div id="drag-and-drop-zone-variation-image-session" class="dm-uploader text-center">
-                                                <p class="dm-upload-icon">
-                                                    <i class="icon-upload"></i>
-                                                </p>
-                                                <p class="dm-upload-text"><?= trans("drag_drop_images_here"); ?>&nbsp;<span style="text-decoration: underline"><?= trans('browse_files'); ?></span></p>
-
-                                                <a class='btn btn-md dm-btn-select-files'>
-                                                    <input type="file" name="file" size="40" multiple="multiple">
-                                                </a>
-                                                <ul class="dm-uploaded-files" id="files-variation-image-session">
-                                                    <?php $variationImagesSession = getSessVariationImagesArray();
-                                                    if (!empty($variationImagesSession)):
-                                                        foreach ($variationImagesSession as $imgSession):?>
-                                                            <li class="media" id="uploaderFile<?= $imgSession->file_id; ?>">
-                                                                <img src="<?= base_url('uploads/temp/' . $imgSession->img_default); ?>" alt="">
-                                                                <a href="javascript:void(0)" class="btn-img-delete btn-delete-variation-image-session" data-file-id="<?= $imgSession->file_id; ?>"><i class="icon-close"></i></a>
-                                                                <?php if ($imgSession->is_main == 1): ?>
-                                                                    <a href="javascript:void(0)" class="btn btn-xs btn-success btn-is-image-main btn-set-variation-image-main-session"><?= trans("main"); ?></a>
-                                                                <?php else: ?>
-                                                                    <a href="javascript:void(0)" class="btn btn-xs btn-secondary btn-is-image-main btn-set-variation-image-main-session" data-file-id="<?= $imgSession->file_id; ?>"><?= trans("main"); ?></a>
-                                                                <?php endif; ?>
-                                                            </li>
-                                                        <?php endforeach;
-                                                    endif; ?>
-                                                </ul>
+                                                <div id="drag-and-drop-zone-variation-image-session" class="dm-uploader text-center">
+                                                    <p class="dm-upload-icon">
+                                                        <i class="icon-upload"></i>
+                                                    </p>
+                                                    <p class="dm-upload-text"><?= trans("drag_drop_images_here"); ?>&nbsp;<span style="text-decoration: underline"><?= trans('browse_files'); ?></span></p>
+                                            
+                                                    <a class='btn btn-md dm-btn-select-files'>
+                                                        <input type="file" name="file" size="40" multiple="multiple" accept="image/*">
+                                                    </a>
+                                                    <ul class="dm-uploaded-files" id="files-variation-image-session">
+                                                        <?php $variationImagesSession = getSessVariationImagesArray();
+                                                        if (!empty($variationImagesSession)):
+                                                            foreach ($variationImagesSession as $imgSession):?>
+                                                                <li class="media" id="uploaderFile<?= $imgSession->file_id; ?>">
+                                                                    <img src="<?= base_url('uploads/temp/' . $imgSession->img_default); ?>" alt="">
+                                                                    <a href="javascript:void(0)" class="btn-img-delete btn-delete-variation-image-session" data-file-id="<?= $imgSession->file_id; ?>"><i class="icon-close"></i></a>
+                                                                    <?php if ($imgSession->is_main == 1): ?>
+                                                                        <a href="javascript:void(0)" class="btn btn-xs btn-success btn-is-image-main btn-set-variation-image-main-session"><?= trans("main"); ?></a>
+                                                                    <?php else: ?>
+                                                                        <a href="javascript:void(0)" class="btn btn-xs btn-secondary btn-is-image-main btn-set-variation-image-main-session" data-file-id="<?= $imgSession->file_id; ?>"><?= trans("main"); ?></a>
+                                                                    <?php endif; ?>
+                                                                </li>
+                                                            <?php endforeach;
+                                                        endif; ?>
+                                                    </ul>
+                                                </div>
                                             </div>
                                         </div>
                                         <script type="text/html" id="files-template-variation-image-session">

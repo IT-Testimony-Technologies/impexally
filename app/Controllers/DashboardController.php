@@ -18,6 +18,7 @@ use App\Models\PromoteModel;
 use App\Models\ShippingModel;
 use App\Models\UploadModel;
 use App\Models\VariationModel;
+use App\Models\SupportModel;
 use Config\Globals;
 
 class DashboardController extends BaseController
@@ -30,6 +31,7 @@ class DashboardController extends BaseController
     protected $couponModel;
     protected $earningsModel;
     protected $fileModel;
+    protected $supportModel;
     protected $userId;
     protected $perPage;
 
@@ -59,8 +61,24 @@ class DashboardController extends BaseController
         $this->couponModel = new CouponModel();
         $this->earningsModel = new EarningsModel();
         $this->fileModel = new FileModel();
+        $this->supportModel = new SupportModel();
         $this->userId = user()->id;
         $this->perPage = 15;
+    }
+    
+    /**
+     * Help Center
+     */
+    public function helpCenter()
+    {
+        $data['title'] = trans("help_center");
+        $data['description'] = $this->baseVars->appName . ' - ' . trans("help_center");
+        $data['keywords'] = $this->baseVars->appName . ',' . trans("help_center");
+        $data['supportCategories'] = $this->supportModel->getCategoriesByLang(selectedLangId());
+        
+        echo view('partials/_header', $data);
+        echo view('support/index', $data);
+        echo view('partials/_footer');
     }
 
     /**

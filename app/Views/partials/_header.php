@@ -75,7 +75,7 @@ if ($baseVars->rtl == true): ?>
 <body>
 <header id="header">
 <?= view('partials/_top_bar'); ?>
-<div class="main-menu">
+<!--<div class="main-menu">
 <div class="container-fluid">
 <div class="row">
 <div class="nav-top">
@@ -151,8 +151,8 @@ endif; ?>
 </div>
 </div>
 </div>
-</div>
-<div class="mobile-nav-container">
+</div>-->
+<!--<div class="mobile-nav-container">
 <div class="nav-mobile-header">
 <div class="container-fluid">
 <div class="row">
@@ -204,7 +204,7 @@ endif; ?>
 </div>
 </div>
 </div>
-</div>
+</div>-->
 </header>
 <div id="overlay_bg" class="overlay-bg"></div>
 <?= view("partials/_nav_mobile"); ?>

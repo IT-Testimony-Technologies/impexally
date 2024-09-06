@@ -1,0 +1,920 @@
+INFO - 2024-08-07 00:09:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 01:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 01:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:31:37 --> CSRF token verified.
+INFO - 2024-08-07 03:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:31:37 --> CSRF token verified.
+INFO - 2024-08-07 03:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:31:40 --> CSRF token verified.
+INFO - 2024-08-07 03:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 06:31:46 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:31:46 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:31:46 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:31:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:31:46 --> CSRF token verified.
+INFO - 2024-08-07 03:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:33:49 --> CSRF token verified.
+INFO - 2024-08-07 03:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:34:34 --> CSRF token verified.
+INFO - 2024-08-07 03:35:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:35:28 --> CSRF token verified.
+ERROR - 2024-08-07 06:35:28 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 06:35:28 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:35:46 --> CSRF token verified.
+ERROR - 2024-08-07 06:35:46 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 06:35:46 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:35:55 --> CSRF token verified.
+INFO - 2024-08-07 03:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 06:35:56 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:35:56 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:35:56 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:35:57 --> CSRF token verified.
+INFO - 2024-08-07 03:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:36:05 --> CSRF token verified.
+ERROR - 2024-08-07 06:36:05 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 06:36:05 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:36:23 --> CSRF token verified.
+ERROR - 2024-08-07 06:36:23 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 06:36:23 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:36:36 --> CSRF token verified.
+ERROR - 2024-08-07 06:36:36 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 06:36:36 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:36:45 --> CSRF token verified.
+INFO - 2024-08-07 03:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 06:37:08 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:37:08 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:37:08 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:37:09 --> CSRF token verified.
+INFO - 2024-08-07 03:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:37:21 --> CSRF token verified.
+INFO - 2024-08-07 03:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 06:37:46 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:37:46 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:37:46 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:37:46 --> CSRF token verified.
+INFO - 2024-08-07 03:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:37:51 --> CSRF token verified.
+INFO - 2024-08-07 03:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 06:38:10 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:38:10 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:38:10 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:38:11 --> CSRF token verified.
+INFO - 2024-08-07 03:38:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:38:20 --> CSRF token verified.
+ERROR - 2024-08-07 06:38:20 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 06:38:20 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:38:32 --> CSRF token verified.
+INFO - 2024-08-07 03:38:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:38:53 --> CSRF token verified.
+INFO - 2024-08-07 03:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 06:39:06 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:39:06 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:39:06 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:39:07 --> CSRF token verified.
+INFO - 2024-08-07 03:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:39:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:39:17 --> CSRF token verified.
+INFO - 2024-08-07 03:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 06:39:35 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:39:35 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:39:35 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:39:35 --> CSRF token verified.
+INFO - 2024-08-07 03:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:39:50 --> CSRF token verified.
+INFO - 2024-08-07 03:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 06:39:51 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:39:51 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:39:51 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:39:52 --> CSRF token verified.
+INFO - 2024-08-07 03:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:40:00 --> CSRF token verified.
+INFO - 2024-08-07 03:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 06:40:00 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:40:00 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:40:00 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:40:01 --> CSRF token verified.
+INFO - 2024-08-07 03:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 03:46:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 06:46:11 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:46:11 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 06:46:11 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:46:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:46:12 --> CSRF token verified.
+INFO - 2024-08-07 03:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:46:45 --> CSRF token verified.
+ERROR - 2024-08-07 06:46:45 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 06:46:45 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:47:05 --> CSRF token verified.
+ERROR - 2024-08-07 06:47:05 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 06:47:05 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:47:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:47:15 --> CSRF token verified.
+ERROR - 2024-08-07 06:47:15 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 06:47:15 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:47:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:47:27 --> CSRF token verified.
+ERROR - 2024-08-07 06:47:27 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 06:47:27 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 03:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 04:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 04:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 04:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 05:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 05:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 05:25:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 05:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 08:25:58 --> CSRF token verified.
+INFO - 2024-08-07 05:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 05:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 08:39:24 --> CSRF token verified.
+INFO - 2024-08-07 05:45:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 05:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:11:59 --> CSRF token verified.
+INFO - 2024-08-07 06:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:12:04 --> CSRF token verified.
+INFO - 2024-08-07 06:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 09:12:11 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 09:12:11 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 06:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:12:13 --> CSRF token verified.
+INFO - 2024-08-07 06:12:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:12:25 --> CSRF token verified.
+ERROR - 2024-08-07 09:12:25 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 09:12:25 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 06:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 09:12:35 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 09:12:35 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 06:12:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:12:37 --> CSRF token verified.
+INFO - 2024-08-07 06:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:12:46 --> CSRF token verified.
+ERROR - 2024-08-07 09:12:46 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 09:12:46 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 06:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:43:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 06:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 07:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 07:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 07:38:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 07:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 07:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 07:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-08-07 10:51:35 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-08-07 10:51:35 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 07:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 10:51:36 --> CSRF token verified.
+INFO - 2024-08-07 07:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 10:52:04 --> CSRF token verified.
+ERROR - 2024-08-07 10:52:04 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`)) in /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/impexall/seller.impexally.com/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/impexall/seller.impexally.com/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/impexall/seller.impexally.com/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/impexall/seller.impexally.com/app/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/impexall/seller.impexally.com/app/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+#6 /home/impexall/seller.impexally.com/system/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+#7 /home/impexall/seller.impexally.com/system/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+#8 /home/impexall/seller.impexally.com/system/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/impexall/seller.impexally.com/index.php(95): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-08-07 10:52:04 --> Cannot delete or update a parent row: a foreign key constraint fails (`impexall_sellerdb`.`carts`, CONSTRAINT `carts_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/AuthModel.php(545): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/MembershipController.php(271): App\Models\AuthModel->deleteUser()
+ 4 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->deleteUserPost()
+ 5 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-08-07 07:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 07:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 08:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 08:12:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 11:12:14 --> CSRF token verified.
+INFO - 2024-08-07 08:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 11:19:56 --> CSRF token verified.
+INFO - 2024-08-07 08:33:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 08:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 11:35:45 --> CSRF token verified.
+INFO - 2024-08-07 08:45:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 08:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 11:56:12 --> CSRF token verified.
+INFO - 2024-08-07 09:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:03:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 12:09:00 --> CSRF token verified.
+INFO - 2024-08-07 09:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:19:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:33:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 12:33:34 --> CSRF token verified.
+INFO - 2024-08-07 09:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 12:38:02 --> CSRF token verified.
+INFO - 2024-08-07 09:39:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 09:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 10:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 10:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 13:13:43 --> CSRF token verified.
+INFO - 2024-08-07 11:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 11:34:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 11:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 11:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 11:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 12:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 12:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 13:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 13:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 13:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 13:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 16:47:33 --> CSRF token verified.
+INFO - 2024-08-07 13:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 13:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 16:47:36 --> CSRF token verified.
+INFO - 2024-08-07 13:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 13:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 16:47:41 --> CSRF token verified.
+INFO - 2024-08-07 13:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 16:48:13 --> CSRF token verified.
+INFO - 2024-08-07 13:48:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 13:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 16:48:14 --> CSRF token verified.
+INFO - 2024-08-07 13:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 16:48:26 --> CSRF token verified.
+INFO - 2024-08-07 13:50:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 13:51:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 13:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 14:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 14:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 14:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 15:28:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 15:41:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 15:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 15:41:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 15:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 16:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 16:20:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 16:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 19:20:37 --> CSRF token verified.
+INFO - 2024-08-07 16:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 17:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 17:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 20:10:24 --> CSRF token verified.
+INFO - 2024-08-07 17:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 18:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 19:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 19:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 19:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 20:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 20:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 20:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 23:37:44 --> CSRF token verified.
+INFO - 2024-08-07 21:30:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 21:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 21:55:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 21:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 22:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 22:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 22:34:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-08-07 23:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.

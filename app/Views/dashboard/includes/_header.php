@@ -59,7 +59,7 @@
                 <div class="navbar-custom-menu">
                     <ul class="nav navbar-nav">
                         <li>
-                            <a class="btn btn-sm btn-success pull-left btn-site-prev" target="_blank" href="<?= langBaseUrl(); ?>"><i class="fa fa-eye"></i> &nbsp;<span class="btn-site-prev-text"><?= trans("view_site"); ?></span></a>
+                            <a class="btn btn-sm btn-success pull-left btn-site-prev" target="_blank" href="https://ghana.impexally.com"><i class="fa fa-eye"></i> &nbsp;<span class="btn-site-prev-text"><?= trans("view_site"); ?></span></a>
                         </li>
                         <?php if ($generalSettings->multilingual_system == 1 && countItems($activeLanguages) > 1): ?>
                             <li class="nav-item dropdown language-dropdown">
@@ -109,18 +109,19 @@
         <section class="sidebar">
             <div class="sidebar-scrollbar">
                 <div class="logo">
-                    <a href="<?= dashboardUrl(); ?>"><img src="<?= getLogo(); ?>" alt="logo"></a>
+                    <a style="margin-left:-50px;" href="<?= dashboardUrl(); ?>"><img src="<?= getLogo(); ?>" alt="logo"></a>
                 </div>
-                <div class="user-panel">
-                    <div class="image">
+                <div style="margin: 0; padding: 0;" class="user-panel">
+                    <!--<div class="image">
                         <img src="<?= getUserAvatar(user()); ?>" class="img-circle" alt="">
                     </div>
                     <div class="username">
                         <p><?= trans("hi") . ', ' . esc(getUsername(user())); ?></p>
-                    </div>
+                    </div>-->
                 </div>
-                <?php if (isVendor()): ?>
-                    <ul class="sidebar-menu" data-widget="tree">
+                
+                    <?php if (isVendor()): ?>
+                    <ul class="sidebar-menu" data-widget="tree" style="margin-top:-80px;">
                         <li class="header"><?= trans("navigation"); ?></li>
                         <li class="nav-home">
                             <a href="<?= dashboardUrl(); ?>">
@@ -274,8 +275,14 @@
                                 </a>
                             </li>
                         <?php endif; ?>
+                        <li class="header">Help Center</li>
+                        <li class="nav-knowledge-base">
+                            <a href="<?= generateUrl('help_center'); ?>">Support Tickets</a>
+                        </li>
+                        
                     </ul>
                 <?php endif; ?>
+                
             </div>
         </section>
     </aside>

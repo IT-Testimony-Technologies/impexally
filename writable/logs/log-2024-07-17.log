@@ -1,0 +1,812 @@
+INFO - 2024-07-17 00:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 02:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 02:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 03:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 03:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 03:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 04:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 04:43:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 05:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 05:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 06:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 06:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 07:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 07:23:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 07:57:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 07:59:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 08:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 08:31:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 08:57:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 09:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 09:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 10:45:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 10:45:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:45:53 --> CSRF token verified.
+INFO - 2024-07-17 10:46:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 10:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:46:03 --> CSRF token verified.
+INFO - 2024-07-17 10:59:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 11:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 11:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 11:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 11:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:21 --> CSRF token verified.
+INFO - 2024-07-17 11:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:45 --> CSRF token verified.
+INFO - 2024-07-17 11:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:45 --> CSRF token verified.
+INFO - 2024-07-17 11:12:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:45 --> CSRF token verified.
+INFO - 2024-07-17 11:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:46 --> CSRF token verified.
+INFO - 2024-07-17 11:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:46 --> CSRF token verified.
+INFO - 2024-07-17 11:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:47 --> CSRF token verified.
+INFO - 2024-07-17 11:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:47 --> CSRF token verified.
+INFO - 2024-07-17 11:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:47 --> CSRF token verified.
+INFO - 2024-07-17 11:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:48 --> CSRF token verified.
+INFO - 2024-07-17 11:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:48 --> CSRF token verified.
+INFO - 2024-07-17 11:12:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:49 --> CSRF token verified.
+INFO - 2024-07-17 11:12:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:12:57 --> CSRF token verified.
+INFO - 2024-07-17 11:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 11:16:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:16:16 --> CSRF token verified.
+INFO - 2024-07-17 11:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 11:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:20:55 --> CSRF token verified.
+INFO - 2024-07-17 11:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:53 --> CSRF token verified.
+INFO - 2024-07-17 11:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:53 --> CSRF token verified.
+INFO - 2024-07-17 11:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:53 --> CSRF token verified.
+INFO - 2024-07-17 11:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:53 --> CSRF token verified.
+INFO - 2024-07-17 11:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:54 --> CSRF token verified.
+INFO - 2024-07-17 11:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:54 --> CSRF token verified.
+INFO - 2024-07-17 11:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:54 --> CSRF token verified.
+INFO - 2024-07-17 11:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:55 --> CSRF token verified.
+INFO - 2024-07-17 11:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:55 --> CSRF token verified.
+INFO - 2024-07-17 11:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:55 --> CSRF token verified.
+INFO - 2024-07-17 11:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:56 --> CSRF token verified.
+INFO - 2024-07-17 11:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:56 --> CSRF token verified.
+INFO - 2024-07-17 11:21:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:56 --> CSRF token verified.
+INFO - 2024-07-17 11:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:57 --> CSRF token verified.
+INFO - 2024-07-17 11:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:57 --> CSRF token verified.
+INFO - 2024-07-17 11:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:57 --> CSRF token verified.
+INFO - 2024-07-17 11:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:58 --> CSRF token verified.
+INFO - 2024-07-17 11:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:58 --> CSRF token verified.
+INFO - 2024-07-17 11:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:58 --> CSRF token verified.
+INFO - 2024-07-17 11:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:59 --> CSRF token verified.
+INFO - 2024-07-17 11:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:59 --> CSRF token verified.
+INFO - 2024-07-17 11:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:59 --> CSRF token verified.
+INFO - 2024-07-17 11:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:21:59 --> CSRF token verified.
+INFO - 2024-07-17 11:22:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:22:00 --> CSRF token verified.
+INFO - 2024-07-17 11:22:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:22:00 --> CSRF token verified.
+INFO - 2024-07-17 11:22:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:22:01 --> CSRF token verified.
+INFO - 2024-07-17 11:22:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:22:01 --> CSRF token verified.
+INFO - 2024-07-17 11:22:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:22:01 --> CSRF token verified.
+INFO - 2024-07-17 11:22:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:22:01 --> CSRF token verified.
+INFO - 2024-07-17 11:22:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:22:02 --> CSRF token verified.
+INFO - 2024-07-17 11:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:32:36 --> CSRF token verified.
+INFO - 2024-07-17 11:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:33:00 --> CSRF token verified.
+INFO - 2024-07-17 11:33:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:33:12 --> CSRF token verified.
+INFO - 2024-07-17 11:33:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:33:29 --> CSRF token verified.
+INFO - 2024-07-17 11:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:33:45 --> CSRF token verified.
+INFO - 2024-07-17 11:34:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:34:08 --> CSRF token verified.
+INFO - 2024-07-17 11:34:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:34:25 --> CSRF token verified.
+INFO - 2024-07-17 11:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:34:52 --> CSRF token verified.
+INFO - 2024-07-17 11:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:35:08 --> CSRF token verified.
+INFO - 2024-07-17 11:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:35:46 --> CSRF token verified.
+INFO - 2024-07-17 11:36:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:36:00 --> CSRF token verified.
+INFO - 2024-07-17 11:36:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:36:27 --> CSRF token verified.
+INFO - 2024-07-17 11:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 11:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:36:29 --> CSRF token verified.
+INFO - 2024-07-17 11:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:37:12 --> CSRF token verified.
+INFO - 2024-07-17 11:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:37:22 --> CSRF token verified.
+INFO - 2024-07-17 11:37:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:37:25 --> CSRF token verified.
+INFO - 2024-07-17 11:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:08 --> CSRF token verified.
+INFO - 2024-07-17 11:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:10 --> CSRF token verified.
+INFO - 2024-07-17 11:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:10 --> CSRF token verified.
+INFO - 2024-07-17 11:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:15 --> CSRF token verified.
+INFO - 2024-07-17 11:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:15 --> CSRF token verified.
+INFO - 2024-07-17 11:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:25 --> CSRF token verified.
+INFO - 2024-07-17 11:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:25 --> CSRF token verified.
+INFO - 2024-07-17 11:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:26 --> CSRF token verified.
+INFO - 2024-07-17 11:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:36 --> CSRF token verified.
+INFO - 2024-07-17 11:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:37 --> CSRF token verified.
+INFO - 2024-07-17 11:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:57 --> CSRF token verified.
+INFO - 2024-07-17 11:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:58 --> CSRF token verified.
+INFO - 2024-07-17 11:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:58 --> CSRF token verified.
+INFO - 2024-07-17 11:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:59 --> CSRF token verified.
+INFO - 2024-07-17 11:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:59 --> CSRF token verified.
+INFO - 2024-07-17 11:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:38:59 --> CSRF token verified.
+INFO - 2024-07-17 11:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:00 --> CSRF token verified.
+INFO - 2024-07-17 11:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:00 --> CSRF token verified.
+INFO - 2024-07-17 11:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:00 --> CSRF token verified.
+INFO - 2024-07-17 11:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:01 --> CSRF token verified.
+INFO - 2024-07-17 11:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:03 --> CSRF token verified.
+INFO - 2024-07-17 11:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:26 --> CSRF token verified.
+INFO - 2024-07-17 11:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:26 --> CSRF token verified.
+INFO - 2024-07-17 11:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:26 --> CSRF token verified.
+INFO - 2024-07-17 11:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:27 --> CSRF token verified.
+INFO - 2024-07-17 11:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:27 --> CSRF token verified.
+INFO - 2024-07-17 11:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:28 --> CSRF token verified.
+INFO - 2024-07-17 11:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:28 --> CSRF token verified.
+INFO - 2024-07-17 11:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:28 --> CSRF token verified.
+INFO - 2024-07-17 11:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:28 --> CSRF token verified.
+INFO - 2024-07-17 11:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:29 --> CSRF token verified.
+INFO - 2024-07-17 11:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:55 --> CSRF token verified.
+INFO - 2024-07-17 11:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:55 --> CSRF token verified.
+INFO - 2024-07-17 11:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:55 --> CSRF token verified.
+INFO - 2024-07-17 11:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:56 --> CSRF token verified.
+INFO - 2024-07-17 11:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:56 --> CSRF token verified.
+INFO - 2024-07-17 11:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:57 --> CSRF token verified.
+INFO - 2024-07-17 11:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:57 --> CSRF token verified.
+INFO - 2024-07-17 11:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:57 --> CSRF token verified.
+INFO - 2024-07-17 11:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:57 --> CSRF token verified.
+INFO - 2024-07-17 11:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:39:59 --> CSRF token verified.
+INFO - 2024-07-17 11:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:40:20 --> CSRF token verified.
+INFO - 2024-07-17 11:40:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:40:20 --> CSRF token verified.
+INFO - 2024-07-17 11:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:40:21 --> CSRF token verified.
+INFO - 2024-07-17 11:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:40:21 --> CSRF token verified.
+INFO - 2024-07-17 11:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:40:21 --> CSRF token verified.
+INFO - 2024-07-17 11:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:40:22 --> CSRF token verified.
+INFO - 2024-07-17 11:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:40:22 --> CSRF token verified.
+INFO - 2024-07-17 11:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:40:23 --> CSRF token verified.
+INFO - 2024-07-17 11:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:40:23 --> CSRF token verified.
+INFO - 2024-07-17 11:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:40:25 --> CSRF token verified.
+INFO - 2024-07-17 11:40:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:40:30 --> CSRF token verified.
+INFO - 2024-07-17 11:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:45:32 --> CSRF token verified.
+INFO - 2024-07-17 11:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:45:41 --> CSRF token verified.
+INFO - 2024-07-17 11:45:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:45:54 --> CSRF token verified.
+INFO - 2024-07-17 11:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:46:07 --> CSRF token verified.
+INFO - 2024-07-17 11:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:46:29 --> CSRF token verified.
+INFO - 2024-07-17 11:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:46:36 --> CSRF token verified.
+INFO - 2024-07-17 11:46:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:46:38 --> CSRF token verified.
+INFO - 2024-07-17 11:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:46:41 --> CSRF token verified.
+INFO - 2024-07-17 11:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 11:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:46:42 --> CSRF token verified.
+INFO - 2024-07-17 11:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 11:51:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:51:33 --> CSRF token verified.
+INFO - 2024-07-17 11:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:51:34 --> CSRF token verified.
+INFO - 2024-07-17 11:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:51:34 --> CSRF token verified.
+INFO - 2024-07-17 11:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:51:34 --> CSRF token verified.
+INFO - 2024-07-17 11:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:51:35 --> CSRF token verified.
+INFO - 2024-07-17 11:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:51:35 --> CSRF token verified.
+INFO - 2024-07-17 11:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:51:35 --> CSRF token verified.
+INFO - 2024-07-17 11:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:51:36 --> CSRF token verified.
+INFO - 2024-07-17 11:51:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:51:37 --> CSRF token verified.
+INFO - 2024-07-17 11:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:51:43 --> CSRF token verified.
+INFO - 2024-07-17 12:03:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:03:57 --> CSRF token verified.
+INFO - 2024-07-17 12:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:45 --> CSRF token verified.
+INFO - 2024-07-17 12:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:45 --> CSRF token verified.
+INFO - 2024-07-17 12:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:45 --> CSRF token verified.
+INFO - 2024-07-17 12:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:46 --> CSRF token verified.
+INFO - 2024-07-17 12:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:46 --> CSRF token verified.
+INFO - 2024-07-17 12:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:47 --> CSRF token verified.
+INFO - 2024-07-17 12:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:47 --> CSRF token verified.
+INFO - 2024-07-17 12:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:47 --> CSRF token verified.
+INFO - 2024-07-17 12:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:48 --> CSRF token verified.
+INFO - 2024-07-17 12:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:48 --> CSRF token verified.
+INFO - 2024-07-17 12:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:49 --> CSRF token verified.
+INFO - 2024-07-17 12:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:49 --> CSRF token verified.
+INFO - 2024-07-17 12:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:49 --> CSRF token verified.
+INFO - 2024-07-17 12:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:50 --> CSRF token verified.
+INFO - 2024-07-17 12:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:50 --> CSRF token verified.
+INFO - 2024-07-17 12:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:50 --> CSRF token verified.
+INFO - 2024-07-17 12:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:50 --> CSRF token verified.
+INFO - 2024-07-17 12:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:51 --> CSRF token verified.
+INFO - 2024-07-17 12:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:51 --> CSRF token verified.
+INFO - 2024-07-17 12:04:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:51 --> CSRF token verified.
+INFO - 2024-07-17 12:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:52 --> CSRF token verified.
+INFO - 2024-07-17 12:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:52 --> CSRF token verified.
+INFO - 2024-07-17 12:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:52 --> CSRF token verified.
+INFO - 2024-07-17 12:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:53 --> CSRF token verified.
+INFO - 2024-07-17 12:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:53 --> CSRF token verified.
+INFO - 2024-07-17 12:04:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:53 --> CSRF token verified.
+INFO - 2024-07-17 12:11:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:11:41 --> CSRF token verified.
+INFO - 2024-07-17 12:12:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:12:24 --> CSRF token verified.
+INFO - 2024-07-17 12:12:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:12:43 --> CSRF token verified.
+INFO - 2024-07-17 12:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:27:35 --> CSRF token verified.
+INFO - 2024-07-17 12:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:27:49 --> CSRF token verified.
+INFO - 2024-07-17 12:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:28:05 --> CSRF token verified.
+INFO - 2024-07-17 12:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:28:50 --> CSRF token verified.
+INFO - 2024-07-17 12:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:29:06 --> CSRF token verified.
+INFO - 2024-07-17 12:29:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:29:19 --> CSRF token verified.
+INFO - 2024-07-17 12:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:29:38 --> CSRF token verified.
+INFO - 2024-07-17 12:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 12:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:29:39 --> CSRF token verified.
+INFO - 2024-07-17 12:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:30:16 --> CSRF token verified.
+INFO - 2024-07-17 12:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:30:30 --> CSRF token verified.
+INFO - 2024-07-17 12:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:30:41 --> CSRF token verified.
+INFO - 2024-07-17 12:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:31:13 --> CSRF token verified.
+INFO - 2024-07-17 12:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:31:14 --> CSRF token verified.
+INFO - 2024-07-17 12:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:31:14 --> CSRF token verified.
+INFO - 2024-07-17 12:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:31:14 --> CSRF token verified.
+INFO - 2024-07-17 12:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:31:15 --> CSRF token verified.
+INFO - 2024-07-17 12:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:31:15 --> CSRF token verified.
+INFO - 2024-07-17 12:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:31:15 --> CSRF token verified.
+INFO - 2024-07-17 12:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:31:16 --> CSRF token verified.
+INFO - 2024-07-17 12:36:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:01 --> CSRF token verified.
+INFO - 2024-07-17 12:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:38 --> CSRF token verified.
+INFO - 2024-07-17 12:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:38 --> CSRF token verified.
+INFO - 2024-07-17 12:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:38 --> CSRF token verified.
+INFO - 2024-07-17 12:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:39 --> CSRF token verified.
+INFO - 2024-07-17 12:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:39 --> CSRF token verified.
+INFO - 2024-07-17 12:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:40 --> CSRF token verified.
+INFO - 2024-07-17 12:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:40 --> CSRF token verified.
+INFO - 2024-07-17 12:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:41 --> CSRF token verified.
+INFO - 2024-07-17 12:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:41 --> CSRF token verified.
+INFO - 2024-07-17 12:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:41 --> CSRF token verified.
+INFO - 2024-07-17 12:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:46 --> CSRF token verified.
+INFO - 2024-07-17 12:36:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:36:49 --> CSRF token verified.
+INFO - 2024-07-17 12:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:37:26 --> CSRF token verified.
+INFO - 2024-07-17 12:37:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:37:27 --> CSRF token verified.
+INFO - 2024-07-17 12:37:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:37:27 --> CSRF token verified.
+INFO - 2024-07-17 12:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:37:28 --> CSRF token verified.
+INFO - 2024-07-17 12:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:37:28 --> CSRF token verified.
+INFO - 2024-07-17 12:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:37:28 --> CSRF token verified.
+INFO - 2024-07-17 12:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:37:28 --> CSRF token verified.
+INFO - 2024-07-17 12:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:37:28 --> CSRF token verified.
+INFO - 2024-07-17 12:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:37:29 --> CSRF token verified.
+INFO - 2024-07-17 12:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:37:31 --> CSRF token verified.
+INFO - 2024-07-17 12:38:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:38:45 --> CSRF token verified.
+INFO - 2024-07-17 12:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:38:59 --> CSRF token verified.
+INFO - 2024-07-17 12:39:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:39:07 --> CSRF token verified.
+INFO - 2024-07-17 12:39:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:39:17 --> CSRF token verified.
+INFO - 2024-07-17 12:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:39:25 --> CSRF token verified.
+INFO - 2024-07-17 12:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:39:35 --> CSRF token verified.
+INFO - 2024-07-17 12:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:39:47 --> CSRF token verified.
+INFO - 2024-07-17 12:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:39:51 --> CSRF token verified.
+INFO - 2024-07-17 12:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:40:09 --> CSRF token verified.
+INFO - 2024-07-17 12:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:40:11 --> CSRF token verified.
+INFO - 2024-07-17 12:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:40:14 --> CSRF token verified.
+INFO - 2024-07-17 12:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 12:40:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:40:16 --> CSRF token verified.
+INFO - 2024-07-17 13:04:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:13:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:35:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:39:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 13:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:14:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:14:53 --> CSRF token verified.
+INFO - 2024-07-17 14:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:15:04 --> CSRF token verified.
+INFO - 2024-07-17 14:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:15:41 --> CSRF token verified.
+INFO - 2024-07-17 14:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:15:41 --> CSRF token verified.
+INFO - 2024-07-17 14:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:15:41 --> CSRF token verified.
+INFO - 2024-07-17 14:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:15:42 --> CSRF token verified.
+INFO - 2024-07-17 14:15:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:15:43 --> CSRF token verified.
+INFO - 2024-07-17 14:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:15:49 --> CSRF token verified.
+INFO - 2024-07-17 14:16:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:20:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:20:35 --> CSRF token verified.
+INFO - 2024-07-17 14:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:21:33 --> CSRF token verified.
+INFO - 2024-07-17 14:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:21:34 --> CSRF token verified.
+INFO - 2024-07-17 14:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:21:34 --> CSRF token verified.
+INFO - 2024-07-17 14:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:21:34 --> CSRF token verified.
+INFO - 2024-07-17 14:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:21:34 --> CSRF token verified.
+INFO - 2024-07-17 14:21:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:21:35 --> CSRF token verified.
+INFO - 2024-07-17 14:21:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:21:35 --> CSRF token verified.
+INFO - 2024-07-17 14:21:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:21:35 --> CSRF token verified.
+INFO - 2024-07-17 14:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:21:55 --> CSRF token verified.
+INFO - 2024-07-17 14:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:22:36 --> CSRF token verified.
+INFO - 2024-07-17 14:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:22:50 --> CSRF token verified.
+INFO - 2024-07-17 14:23:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:23:17 --> CSRF token verified.
+INFO - 2024-07-17 14:23:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:23:18 --> CSRF token verified.
+INFO - 2024-07-17 14:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:24:52 --> CSRF token verified.
+INFO - 2024-07-17 14:25:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:25:06 --> CSRF token verified.
+INFO - 2024-07-17 14:25:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:25:11 --> CSRF token verified.
+INFO - 2024-07-17 14:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:26:04 --> CSRF token verified.
+INFO - 2024-07-17 14:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:26:05 --> CSRF token verified.
+INFO - 2024-07-17 14:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:26:05 --> CSRF token verified.
+INFO - 2024-07-17 14:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:26:06 --> CSRF token verified.
+INFO - 2024-07-17 14:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:26:06 --> CSRF token verified.
+INFO - 2024-07-17 14:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:26:06 --> CSRF token verified.
+INFO - 2024-07-17 14:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:26:07 --> CSRF token verified.
+INFO - 2024-07-17 14:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:26:07 --> CSRF token verified.
+INFO - 2024-07-17 14:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:26:08 --> CSRF token verified.
+INFO - 2024-07-17 14:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:33:40 --> CSRF token verified.
+INFO - 2024-07-17 14:34:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 14:59:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:03:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:12:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:12:17 --> CSRF token verified.
+INFO - 2024-07-17 15:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:12:26 --> CSRF token verified.
+INFO - 2024-07-17 15:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:13:08 --> CSRF token verified.
+INFO - 2024-07-17 15:13:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:13:13 --> CSRF token verified.
+INFO - 2024-07-17 15:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:13:49 --> CSRF token verified.
+INFO - 2024-07-17 15:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:14:01 --> CSRF token verified.
+INFO - 2024-07-17 15:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:14:14 --> CSRF token verified.
+INFO - 2024-07-17 15:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:14:18 --> CSRF token verified.
+INFO - 2024-07-17 15:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:14:32 --> CSRF token verified.
+INFO - 2024-07-17 15:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:14:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:14:33 --> CSRF token verified.
+INFO - 2024-07-17 15:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:14:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:14:49 --> CSRF token verified.
+INFO - 2024-07-17 15:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:14:56 --> CSRF token verified.
+INFO - 2024-07-17 15:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:14:59 --> CSRF token verified.
+INFO - 2024-07-17 15:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:17:55 --> CSRF token verified.
+INFO - 2024-07-17 15:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:18:21 --> CSRF token verified.
+INFO - 2024-07-17 15:18:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:18:32 --> CSRF token verified.
+INFO - 2024-07-17 15:19:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:19:14 --> CSRF token verified.
+INFO - 2024-07-17 15:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:19:15 --> CSRF token verified.
+INFO - 2024-07-17 15:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:19:15 --> CSRF token verified.
+INFO - 2024-07-17 15:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:19:15 --> CSRF token verified.
+INFO - 2024-07-17 15:19:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:19:15 --> CSRF token verified.
+INFO - 2024-07-17 15:19:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:19:16 --> CSRF token verified.
+INFO - 2024-07-17 15:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:19:17 --> CSRF token verified.
+INFO - 2024-07-17 15:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:19:23 --> CSRF token verified.
+INFO - 2024-07-17 15:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:25:44 --> CSRF token verified.
+INFO - 2024-07-17 15:26:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:25 --> CSRF token verified.
+INFO - 2024-07-17 15:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:26 --> CSRF token verified.
+INFO - 2024-07-17 15:26:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:26 --> CSRF token verified.
+INFO - 2024-07-17 15:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:27 --> CSRF token verified.
+INFO - 2024-07-17 15:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:27 --> CSRF token verified.
+INFO - 2024-07-17 15:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:28 --> CSRF token verified.
+INFO - 2024-07-17 15:26:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:28 --> CSRF token verified.
+INFO - 2024-07-17 15:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:29 --> CSRF token verified.
+INFO - 2024-07-17 15:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:29 --> CSRF token verified.
+INFO - 2024-07-17 15:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:29 --> CSRF token verified.
+INFO - 2024-07-17 15:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:30 --> CSRF token verified.
+INFO - 2024-07-17 15:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:30 --> CSRF token verified.
+INFO - 2024-07-17 15:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:30 --> CSRF token verified.
+INFO - 2024-07-17 15:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:31 --> CSRF token verified.
+INFO - 2024-07-17 15:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:31 --> CSRF token verified.
+INFO - 2024-07-17 15:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:31 --> CSRF token verified.
+INFO - 2024-07-17 15:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:31 --> CSRF token verified.
+INFO - 2024-07-17 15:26:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:32 --> CSRF token verified.
+INFO - 2024-07-17 15:26:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:32 --> CSRF token verified.
+INFO - 2024-07-17 15:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:33 --> CSRF token verified.
+INFO - 2024-07-17 15:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:33 --> CSRF token verified.
+INFO - 2024-07-17 15:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:26:33 --> CSRF token verified.
+INFO - 2024-07-17 15:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 15:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 16:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 16:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 16:01:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 16:02:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 16:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:05:26 --> CSRF token verified.
+INFO - 2024-07-17 16:05:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:05:44 --> CSRF token verified.
+INFO - 2024-07-17 16:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:06:18 --> CSRF token verified.
+INFO - 2024-07-17 16:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:06:44 --> CSRF token verified.
+INFO - 2024-07-17 16:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:06:57 --> CSRF token verified.
+INFO - 2024-07-17 16:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:07:17 --> CSRF token verified.
+INFO - 2024-07-17 16:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:08:05 --> CSRF token verified.
+INFO - 2024-07-17 16:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:08:22 --> CSRF token verified.
+INFO - 2024-07-17 16:08:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:08:55 --> CSRF token verified.
+INFO - 2024-07-17 16:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:09:08 --> CSRF token verified.
+INFO - 2024-07-17 16:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 16:09:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:09:09 --> CSRF token verified.
+INFO - 2024-07-17 16:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:09:38 --> CSRF token verified.
+INFO - 2024-07-17 16:09:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:09:54 --> CSRF token verified.
+INFO - 2024-07-17 16:09:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:09:57 --> CSRF token verified.
+INFO - 2024-07-17 16:10:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:10:36 --> CSRF token verified.
+INFO - 2024-07-17 16:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:10:37 --> CSRF token verified.
+INFO - 2024-07-17 16:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:10:37 --> CSRF token verified.
+INFO - 2024-07-17 16:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:10:37 --> CSRF token verified.
+INFO - 2024-07-17 16:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:10:38 --> CSRF token verified.
+INFO - 2024-07-17 16:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:10:39 --> CSRF token verified.
+INFO - 2024-07-17 16:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:10:41 --> CSRF token verified.
+INFO - 2024-07-17 16:10:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:10:44 --> CSRF token verified.
+INFO - 2024-07-17 16:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:11:54 --> CSRF token verified.
+INFO - 2024-07-17 16:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:11:55 --> CSRF token verified.
+INFO - 2024-07-17 16:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:11:55 --> CSRF token verified.
+INFO - 2024-07-17 16:11:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:11:55 --> CSRF token verified.
+INFO - 2024-07-17 16:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:11:56 --> CSRF token verified.
+INFO - 2024-07-17 16:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:11:56 --> CSRF token verified.
+INFO - 2024-07-17 16:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:11:56 --> CSRF token verified.
+INFO - 2024-07-17 16:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:11:56 --> CSRF token verified.
+INFO - 2024-07-17 16:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:11:57 --> CSRF token verified.
+INFO - 2024-07-17 16:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:11:59 --> CSRF token verified.
+INFO - 2024-07-17 16:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:13:09 --> CSRF token verified.
+INFO - 2024-07-17 16:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:13:10 --> CSRF token verified.
+INFO - 2024-07-17 16:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:13:10 --> CSRF token verified.
+INFO - 2024-07-17 16:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:13:11 --> CSRF token verified.
+INFO - 2024-07-17 16:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:13:11 --> CSRF token verified.
+INFO - 2024-07-17 16:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:13:11 --> CSRF token verified.
+INFO - 2024-07-17 16:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:13:11 --> CSRF token verified.
+INFO - 2024-07-17 16:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:13:12 --> CSRF token verified.
+INFO - 2024-07-17 16:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:13:12 --> CSRF token verified.
+INFO - 2024-07-17 16:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:13:15 --> CSRF token verified.
+INFO - 2024-07-17 16:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:13:43 --> CSRF token verified.
+INFO - 2024-07-17 16:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:14:11 --> CSRF token verified.
+INFO - 2024-07-17 16:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:14:23 --> CSRF token verified.
+INFO - 2024-07-17 16:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:14:34 --> CSRF token verified.
+INFO - 2024-07-17 16:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:14:40 --> CSRF token verified.
+INFO - 2024-07-17 16:14:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:14:42 --> CSRF token verified.
+INFO - 2024-07-17 16:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:14:47 --> CSRF token verified.
+INFO - 2024-07-17 16:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 16:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:14:48 --> CSRF token verified.
+INFO - 2024-07-17 16:25:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 16:58:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:36:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 18:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 19:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 20:11:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 20:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 21:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 21:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 21:59:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 22:34:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 22:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 22:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 23:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 23:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 23:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 23:22:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-17 23:36:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.

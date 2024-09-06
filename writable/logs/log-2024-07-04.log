@@ -1,0 +1,299 @@
+INFO - 2024-07-04 08:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 08:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:51:21 --> CSRF token verified.
+INFO - 2024-07-04 10:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:51:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:51:25 --> CSRF token verified.
+INFO - 2024-07-04 10:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:51:28 --> CSRF token verified.
+INFO - 2024-07-04 10:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:51:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:51:37 --> CSRF token verified.
+INFO - 2024-07-04 10:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:51:41 --> CSRF token verified.
+INFO - 2024-07-04 10:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:51:43 --> CSRF token verified.
+INFO - 2024-07-04 10:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:51:44 --> CSRF token verified.
+INFO - 2024-07-04 10:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:51:45 --> CSRF token verified.
+INFO - 2024-07-04 10:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:51:46 --> CSRF token verified.
+INFO - 2024-07-04 10:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:51:52 --> CSRF token verified.
+INFO - 2024-07-04 10:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:51:55 --> CSRF token verified.
+WARNING - 2024-07-04 13:51:55 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Helpers/app_helper.php on line 536.
+ 1 APPPATH/Helpers/app_helper.php(536): strtotime(null)
+ 2 APPPATH/Views/chat/_chat_user.php(26): isUserOnline(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/chat/_chat_user.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('chat/_chat_user', [], true)
+ 6 APPPATH/Controllers/AjaxController.php(760): view('chat/_chat_user', [...])
+ 7 APPPATH/Controllers/AjaxController.php(707): App\Controllers\AjaxController->loadChatHTML('64')
+ 8 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\AjaxController->loadChatPost()
+ 9 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+10 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-04 10:51:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:52:00 --> CSRF token verified.
+INFO - 2024-07-04 10:52:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:52:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:52:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 10:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 13:52:06 --> CSRF token verified.
+INFO - 2024-07-04 11:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 11:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 11:02:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 15:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 15:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 15:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 16:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 16:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:33:48 --> CSRF token verified.
+INFO - 2024-07-04 16:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 16:33:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:33:53 --> CSRF token verified.
+INFO - 2024-07-04 16:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 16:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 16:51:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:51:30 --> CSRF token verified.
+INFO - 2024-07-04 16:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 16:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:51:35 --> CSRF token verified.
+INFO - 2024-07-04 16:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 16:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:51:45 --> CSRF token verified.
+INFO - 2024-07-04 16:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 16:51:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:51:49 --> CSRF token verified.
+INFO - 2024-07-04 16:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:53:32 --> CSRF token verified.
+INFO - 2024-07-04 16:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:53:33 --> CSRF token verified.
+INFO - 2024-07-04 16:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:53:36 --> CSRF token verified.
+INFO - 2024-07-04 16:53:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:53:37 --> CSRF token verified.
+INFO - 2024-07-04 16:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:53:39 --> CSRF token verified.
+INFO - 2024-07-04 16:53:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 19:53:41 --> CSRF token verified.
+INFO - 2024-07-04 17:05:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 17:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 17:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 17:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 20:12:02 --> CSRF token verified.
+INFO - 2024-07-04 17:19:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 17:19:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 20:19:22 --> CSRF token verified.
+INFO - 2024-07-04 18:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 18:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:13:53 --> CSRF token verified.
+INFO - 2024-07-04 18:13:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:13:56 --> CSRF token verified.
+INFO - 2024-07-04 18:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:01 --> CSRF token verified.
+INFO - 2024-07-04 18:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 18:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:05 --> CSRF token verified.
+INFO - 2024-07-04 18:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:07 --> CSRF token verified.
+INFO - 2024-07-04 18:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:09 --> CSRF token verified.
+INFO - 2024-07-04 18:14:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:13 --> CSRF token verified.
+INFO - 2024-07-04 18:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:14 --> CSRF token verified.
+INFO - 2024-07-04 18:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 18:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:18 --> CSRF token verified.
+INFO - 2024-07-04 18:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 18:14:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:22 --> CSRF token verified.
+INFO - 2024-07-04 18:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 18:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:26 --> CSRF token verified.
+INFO - 2024-07-04 18:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:34 --> CSRF token verified.
+INFO - 2024-07-04 18:14:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:43 --> CSRF token verified.
+INFO - 2024-07-04 18:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:47 --> CSRF token verified.
+INFO - 2024-07-04 18:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 18:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:48 --> CSRF token verified.
+INFO - 2024-07-04 18:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 18:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:54 --> CSRF token verified.
+INFO - 2024-07-04 18:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:14:56 --> CSRF token verified.
+INFO - 2024-07-04 18:15:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:15:12 --> CSRF token verified.
+INFO - 2024-07-04 18:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:15:47 --> CSRF token verified.
+INFO - 2024-07-04 18:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:16:01 --> CSRF token verified.
+INFO - 2024-07-04 18:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:16:25 --> CSRF token verified.
+INFO - 2024-07-04 18:20:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 18:20:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:20:33 --> CSRF token verified.
+INFO - 2024-07-04 18:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-07-04 21:20:41 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-04 21:20:41 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-04 21:20:41 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-04 21:20:41 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-04 21:20:41 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-04 21:20:41 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-04 21:20:41 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-04 21:20:41 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-04 21:20:41 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-04 18:20:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:20:42 --> CSRF token verified.
+INFO - 2024-07-04 18:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+WARNING - 2024-07-04 21:20:48 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-04 21:20:48 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-04 21:20:48 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-07-04 21:20:48 --> [DEPRECATED] strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in APPPATH/Common.php on line 1317.
+ 1 APPPATH/Common.php(1317): strtotime(null)
+ 2 APPPATH/Views/admin/membership/users.php(136): timeAgo(null)
+ 3 SYSTEMPATH/View/View.php(226): include('/home/impexall/seller.impexally.com/app/Views/admin/membership/users.php')
+ 4 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('admin/membership/users', [], true)
+ 6 APPPATH/Controllers/MembershipController.php(33): view('admin/membership/users')
+ 7 SYSTEMPATH/CodeIgniter.php(918): App\Controllers\MembershipController->users()
+ 8 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MembershipController))
+ 9 SYSTEMPATH/CodeIgniter.php(352): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH/index.php(95): CodeIgniter\CodeIgniter->run()
+INFO - 2024-07-04 18:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-07-04 21:20:48 --> CSRF token verified.
+INFO - 2024-07-04 19:06:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.

@@ -19,7 +19,8 @@ class AuthModel extends BaseModel
             'email' => inputPost('email'),
             'first_name' => inputPost('first_name'),
             'last_name' => inputPost('last_name'),
-            'password' => inputPost('password')
+            'password' => inputPost('password'),
+            'phone_number' => inputPost('phone_number')
         ];
     }
 
@@ -301,6 +302,7 @@ class AuthModel extends BaseModel
         $data['slug'] = $this->generateUniqueSlug($data['username']);
         $data['password'] = password_hash($data['password'], PASSWORD_DEFAULT);
         $data['role_id'] = inputPost('role_id');
+        $data['phone_number'] = inputPost('phone_number');
         $data['user_type'] = 'registered';
         $data['banned'] = 0;
         $data['email_status'] = 1;
